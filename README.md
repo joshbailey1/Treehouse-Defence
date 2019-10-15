@@ -1,5 +1,5 @@
 # Treehouse-Defence
-This is a tower defence game I programmed with the online learning website treehouse academy.
+This is a tower defence game I programmed with the online learning website treehouse academy. (https://teamtreehouse.com)
 The course taught me how to use object oriented programming in C# and went over the principles of OOP (Encapsulation, Abstraction, Inheritance and Polymorphism) during the coding of this game.
 At the end of the course the game wasn't interactive at all. You created a map, a path (for the invaders to move along, at the end of which is the base you're defending), some invaders, and some towers. All of this was created in code then you ran the program to see if you neutralized all the invaders and won the game, or an invader made it to the end of the path and you lost the game.
 I coded a DisplayMap method for the Map class so that the user can see the map and the path. To do this I created a method for the Path class called OnPath so that I could differentiate between an empty space in the map (one you could place towers on) and the path. 
